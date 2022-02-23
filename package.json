@@ -1,5 +1,5 @@
 {
-  "name": "sn-theme-focus",
+  "name": "@standardnotes/focus-theme",
   "version": "1.2.7",
   "main": "dist/dist.css",
   "devDependencies": {
