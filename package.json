@@ -13,6 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sn-extensions/focus-theme.git"
+    "url": "git://github.com/standardnotes/focus-theme.git"
+  },
+  "scripts": {
+    "prepublishOnly": "npm run build",
+    "build": "grunt"
   }
 }
